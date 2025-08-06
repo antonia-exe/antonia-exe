@@ -46,8 +46,7 @@ Sou uma desenvolvedora apaixonada por criar soluções tecnológicas que unem in
 Plataforma de apoio psicológico acadêmico para agendamento e acompanhamento  
 🎯 Acesso facilitado ao atendimento        
 ⏳ Redução de tempo de gestão com painel administrativo              
-🛠 Stack: JavaScript, React, MySQL        
-
+🛠 Stack: JavaScript, React, Sequelize
 ### 🏢 Intranet Corporativa  
 Portal unificado com 12+ módulos  
 🚀 Redução no tempo de acesso à informação  
