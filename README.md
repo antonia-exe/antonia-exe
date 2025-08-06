@@ -62,14 +62,13 @@ Sistema interativo para colaboradores compartilharem ideias e melhorias
 ### 🧠 Soft Skills
 - Liderança técnica, Comunicação clara, Resolução de problemas complexos
 
-<details>
-<summary>🏅 Formação acadêmica</summary>
+### 🏅 Formação acadêmica
 
 - 🎓 Licenciatura em Ciência da Computação - Universidade Federal da Paraíba
 - 🎓 Banco de Dados e Programação Web – Instituto Federal do Rio Grande do Sul (IFRS)
 - 🎓 Design UX/UI - Udemy  
 
-</details>
+
 
 ## 📫 Que tal conversarmos?
 
