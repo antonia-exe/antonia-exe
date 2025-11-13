@@ -39,6 +39,8 @@ Sou uma desenvolvedora apaixonada por criar soluções tecnológicas que unem in
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Material Design](https://img.shields.io/badge/material%20design-757575?style=flat-square&logo=material%20design&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 🏆 Últimos projetos:
 
