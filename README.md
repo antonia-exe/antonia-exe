@@ -56,9 +56,9 @@ Desenvolvedora Fullstack com 4 anos de experiência, apaixonada por criar soluç
 
 **Miriri Alimentos e Bioenergia S/A** · Desenvolvedora Fullstack Pleno   
 
-**Universidade Federal da Paraíba** · Desenvolvedora Fullstack Jr. · 2023 – 2024  
+**Universidade Federal da Paraíba** · Desenvolvedora Fullstack Jr. 
 
-**Sindalcool** · Desenvolvedora Fullstack Jr. · 2022 – 2024  
+**Sindalcool** · Desenvolvedora Fullstack Jr.
 
 
 ## 🏆 Últimos Projetos
